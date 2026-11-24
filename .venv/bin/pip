@@ -1,4 +1,4 @@
-#!/Users/kylew/Pokerlab/.venv/bin/python3
+#!/Users/kylew/Pokerlab/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
